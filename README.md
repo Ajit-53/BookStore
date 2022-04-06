@@ -12,7 +12,6 @@ Admin Module
 
 User Module
 1. Users need to register 2. User can be able to login / logout 3. User can search for book by name / category / ISBN / Author 4. User can see only book and category if their status is true 5. User can see new books 6. User can see featured book on home page 7. User can create a Wishlist of his / her favorite books 8. User can add books in the cart and place the order 9. User must be login before placing order
-=========================================================================================================================================================================
 
 ![HomePage](https://user-images.githubusercontent.com/44921966/141487204-571d712f-4074-4fb1-a6b2-465540d20577.png)
 ![LoginPage](https://user-images.githubusercontent.com/44921966/141487222-74a275c5-3424-45d6-bf13-44707bafbdca.png)
